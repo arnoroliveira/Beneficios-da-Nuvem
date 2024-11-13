@@ -1,4 +1,4 @@
-# Beneficios-da-Nuvem
+# Beneficios da Nuvem - Microsoft Cloud Azure
 Quais são os benefícios que a nuvem nos fornece como desenvolvedores? Estudo realizado pela Digital Innovation One no curso da XP Inc. - Full Stack, no módulo de Cloud Azure.
 
 É importante saber qual é o tempo do SLA. Quando eu receber uma requisição de um serviço, é importante eu saber qual é o tempo de inatividade aceitável? Perguntar ao time qual SLA precisamos entregar? Porque eu vou desenhar a requisição, as estruturas, quem comunica com quem.
